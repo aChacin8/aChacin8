@@ -36,7 +36,7 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
 
 ### 📂 Proyectos Destacados
 
-- 🔗 [**Taskly - App de Tareas y Recordatorios**](https://github.com/alejandr28chac1n/reminder-project)  
+- 🔗 [**Taskly - App de Tareas y Recordatorios**](https://github.com/aChacin8/reminder-project.git)  
   _React + Node.js + MySQL + JWT_  
   CRUD completo, autenticación segura, arquitectura basada en controladores y diseño centrado en el usuario.
 
