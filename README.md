@@ -44,7 +44,7 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
   _React + Node.js + JWT_  
   Registro e inicio de sesión con tokens, visualización de productos desde API y funcionalidad de carrito.
 
-- 🔐 [**Backend NoSQL con Firebase Storage**]()  
+- 🔐 [**Backend NoSQL con Firebase Storage**](https://github.com/aChacin8/Backend-NoSQL.git)  
   _Node.js + MongoDB + JWT + Firebase_  
   Backend con seguridad, manejo de archivos, y protección de endpoints para usuarios registrados.
 
