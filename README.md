@@ -56,4 +56,4 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
 - 🔗 O visitar mi [LinkedIn](https://www.linkedin.com/in/alejandrochacin)
 ---
 
-> 💡 *"La programación no solo resuelve problemas, también crea posibilidades."*
+> 💡 *"Confia en tu intuición, disfruta y construye."*
