@@ -50,10 +50,10 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
 
 ---
 
-### 📫 Conecta conmigo
+###  🤝  Conecta conmigo
 
-📫 Puedes contactarme en: alejandr28chac1n@gmail.com  
-🔗 O visitar mi [LinkedIn](https://www.linkedin.com/in/alejandrochacin)
+- 📫 Puedes contactarme en: alejandr28chac1n@gmail.com  
+- 🔗 O visitar mi [LinkedIn](https://www.linkedin.com/in/alejandrochacin)
 ---
 
 > 💡 *"La programación no solo resuelve problemas, también crea posibilidades."*
