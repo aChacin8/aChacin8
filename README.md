@@ -40,11 +40,11 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
   _React + Node.js + MySQL + JWT_  
   CRUD completo, autenticación segura, arquitectura basada en controladores y diseño centrado en el usuario.
 
-- 🛒 [**E-Commerce Web App**](https://github.com/alejandr28chac1n/E-Commerce)  
+- 🛒 [**E-Commerce Web App**](https://github.com/aChacin8/e-commerce-project.git)  
   _React + Node.js + JWT_  
   Registro e inicio de sesión con tokens, visualización de productos desde API y funcionalidad de carrito.
 
-- 🔐 [**Backend NoSQL con Firebase Storage**](https://github.com/alejandr28chac1n/Backend-NoSQL)  
+- 🔐 [**Backend NoSQL con Firebase Storage**]()  
   _Node.js + MongoDB + JWT + Firebase_  
   Backend con seguridad, manejo de archivos, y protección de endpoints para usuarios registrados.
 
