@@ -1,16 +1,16 @@
 <h1 align="center">👨‍💻 Alejandro Andrés Chacín Nava</h1>
 <p align="center">
-Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack apasionado por crear soluciones web completas y seguras.
+Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack enfocado en soluciones seguras y escalables
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales  
-🛠️ Full Stack Developer con enfoque en backend (Node.js)  
-📈 Apasionado por la tecnología, el aprendizaje constante y el desarrollo de aplicaciones con impacto real  
-🧠 Con experiencia académica liderando equipos SCRUM en proyectos web
+🎓 Estudiante de Ingeniería en Sistemas Computacionales en la Universidad del Valle de México  
+🧠 Desarrollador Full Stack con enfoque en backend y seguridad de datos  
+🔐 Apasionado por el desarrollo de aplicaciones web que resuelven problemas reales  
+📌 Experiencia liderando equipos bajo metodología SCRUM, diseñando interfaces funcionales y robustas APIs REST
 
 ---
 
@@ -34,25 +34,19 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Full Stack
 
 ---
 
-### 🧩 Proyectos Destacados
+### 📂 Proyectos Destacados
 
 - 🔗 [**Taskly - App de Tareas y Recordatorios**](https://github.com/alejandr28chac1n/reminder-project)  
-  _React + Node.js + MySQL + JWT_
+  _React + Node.js + MySQL + JWT_  
+  CRUD completo, autenticación segura, arquitectura basada en controladores y diseño centrado en el usuario.
 
 - 🛒 [**E-Commerce Web App**](https://github.com/alejandr28chac1n/E-Commerce)  
-  _Carrito de compras, autenticación y consumo de API_
+  _React + Node.js + JWT_  
+  Registro e inicio de sesión con tokens, visualización de productos desde API y funcionalidad de carrito.
 
 - 🔐 [**Backend NoSQL con Firebase Storage**](https://github.com/alejandr28chac1n/Backend-NoSQL)  
-  _Registro, autenticación y manejo seguro de archivos_
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandr28chac1n&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandr28chac1n&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
+  _Node.js + MongoDB + JWT + Firebase_  
+  Backend con seguridad, manejo de archivos, y protección de endpoints para usuarios registrados.
 
 ---
 
