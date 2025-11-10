@@ -1,23 +1,23 @@
 <h1 align="center">👨‍💻 Alejandro Andrés Chacín Nava</h1>
 <p align="center">
-Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Backend & Full Stack especializado en seguridad, arquitectura escalable y APIs robustas
+Desarrollador Backend & Full Stack | Enfocado en rendimiento, seguridad y eficiencia de aplicaciones
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales en la **Universidad del Valle de México**  
-🧩 **Desarrollador Backend** con experiencia en diseño de arquitecturas seguras, escalables y bien documentadas  
-🔐 Enfocado en **seguridad de datos, autenticación y control de acceso** mediante JWT, middleware personalizados y cifrado de contraseñas  
-📡 Amplio manejo de **APIs REST**, integración con bases de datos SQL/NoSQL y documentación con **Swagger**  
-📌 Experiencia liderando equipos bajo **metodología SCRUM**, garantizando entregas ágiles y de calidad
+🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad del Valle de México  
+🧠 Desarrollador **Backend** apasionado por construir **aplicaciones funcionales, seguras y de alto rendimiento**  
+💡 Enfocado en optimizar procesos, reducir tiempos de respuesta y mantener arquitecturas limpias y escalables  
+🔐 Con experiencia en **autenticación JWT, cifrado, middlewares personalizados y documentación con Swagger**  
+📈 Me gusta crear **APIs REST eficientes**, que integren correctamente bases de datos relacionales y no relacionales
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 🧠 Lenguajes y Frameworks
+#### 💻 Lenguajes y Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,10 +25,12 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Backend & 
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-#### 🗄️ Bases de Datos
+#### 🗄️ Bases de Datos y ORM/ODM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/-Knex.js-1a202c?style=flat-square&logo=knex.js&logoColor=white)
 
 #### 🧰 Herramientas y DevOps
@@ -39,52 +41,60 @@ Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Backend & 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
-#### 🔐 Seguridad y Autenticación
+#### 🔐 Seguridad y Rendimiento
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Bcrypt](https://img.shields.io/badge/-Bcrypt-0033A0?style=flat-square)
-![Helmet](https://img.shields.io/badge/-Helmet-6DB33F?style=flat-square)
 ![CORS](https://img.shields.io/badge/-CORS-blue?style=flat-square)
+![Rate Limiter](https://img.shields.io/badge/-Rate%20Limiter-FFB400?style=flat-square)
 
 ---
 
 ### ⚙️ Enfoque Backend
 
-💡 Desarrollo de **arquitecturas limpias y modulares** con separación por controladores, servicios y rutas  
-🧩 Uso de **middlewares personalizados** para validación, manejo de errores y autenticación JWT  
-🔐 Implementación de **hashing de contraseñas con bcrypt** y **encriptación de datos sensibles**  
-🧱 Documentación de APIs REST con **Swagger** y pruebas de endpoints con **Postman**  
-🧠 Integración de **control de acceso basado en roles (RBAC)**  
-🧰 Aplicación de **Helmet, CORS y rate limiters** para reforzar la seguridad de las aplicaciones
+💡 Diseño de **arquitecturas modulares y escalables**, separadas por controladores, servicios y rutas  
+🔧 Creación de **middlewares personalizados** para autenticación, validación, logging y manejo de errores  
+🔐 Implementación de **JWT, bcrypt y encriptación** para la protección de datos sensibles  
+⚙️ Uso de **Helmet, CORS y rate limiters** para reforzar la seguridad y rendimiento  
+📄 Documentación y pruebas exhaustivas con **Swagger y Postman**  
+⚡ Optimización de consultas y endpoints para lograr **eficiencia y baja latencia**
 
 ---
 
 ### 📂 Proyectos Destacados
 
+#### 🌿 [**LinkCanopy**](https://github.com/aChacin8/LinkCanopy.git)  
+_Stack: Node.js + Express + PostgreSQL + Mongoose + Swagger
+- Backend modular y escalable con MongoDB 
+- Middlewares personalizados para seguridad y validación  
+- Consultas optimizadas para rendimiento  
+- Arquitectura RESTful limpia y documentada
+- Api documentada con Swagger UI (https://linkcanopy-backend.onrender.com/api-docs)
+
+---
+
+
 #### 🔗 [**Taskly - App de Tareas y Recordatorios**](https://github.com/aChacin8/reminder-project.git)  
-_Stack: React + Node.js + MySQL + JWT + Bcrypt + Swagger_  
-- CRUD completo con validaciones backend  
-- Autenticación segura con JWT y contraseñas encriptadas  
-- Middleware para roles y control de acceso  
-- Documentación de endpoints con Swagger  
-- Pruebas de endpoints y flujo con Postman  
+_Stack: React + Node.js + MySQL + Knex + JWT + Bcrypt  
+- Backend con autenticación y control de acceso basado en roles  
+- Hashing de contraseñas y validación de tokens con middlewares  
+- Pruebas en Postman  
+- Arquitectura eficiente enfocada en velocidad y mantenibilidad  
 
 ---
 
 #### 🔐 [**Backend NoSQL con Firebase Storage**](https://github.com/aChacin8/Backend-NoSQL.git)  
-_Stack: Node.js + Express + MongoDB + JWT + Firebase Storage_  
-- API REST con protección de rutas mediante middlewares  
-- Gestión de usuarios y manejo seguro de archivos  
-- Hashing de contraseñas, validación de tokens y manejo de errores global  
-- Integración con Firebase para almacenamiento de imágenes  
+_Stack: Node.js + Express + MongoDB + Mongoose + JWT + Firebase Storage_  
+- API REST protegida con middlewares de autenticación y validación  
+- Manejo seguro de archivos y datos de usuario  
+- Hashing, logging, y control de errores centralizado  
+- Enfoque en rendimiento y optimización de operaciones CRUD  
 
 ---
 
-#### 🌿 [**LinkCanopy**](https://github.com/aChacin8/LinkCanopy.git)  
-_Stack: Node.js + Express + PostgreSQL + Knex.js_  
-- Backend modularizado con controladores y rutas escalables  
-- Implementación de middlewares de autenticación y validación  
-- Uso de Knex para migraciones y consultas seguras  
-- Arquitectura RESTful con documentación detallada  
+
+### ⚡ Filosofía de desarrollo
+
+> _"Construyo software funcional, seguro y optimizado. Creo que una buena aplicación no solo debe verse bien, sino también **rendir al máximo**."_  
 
 ---
 
@@ -96,4 +106,4 @@ _Stack: Node.js + Express + PostgreSQL + Knex.js_
 
 ---
 
-> 💡 *"Construye con propósito, protege con seguridad y escala con visión."*
+> 💡 *"Confía en tu intuición, disfruta el proceso y construye con propósito."*
