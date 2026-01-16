@@ -7,12 +7,12 @@ Desarrollador Backend | Software Engineer | Enfocado en seguridad, rendimiento y
 
 ### 🚀 Sobre mí
 
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad del Valle de México  
-🧠 Desarrollador **Backend** enfocado en la construcción de **sistemas seguros, escalables y mantenibles**  
-💡 Interés fuerte en **diseño de APIs, autenticación, autorización y arquitecturas limpias**  
-🔐 Experiencia implementando **JWT, control de acceso, cifrado y buenas prácticas de seguridad**  
-📈 Apasionado por crear **APIs REST eficientes**, integrando bases de datos relacionales y NoSQL  
-⚙️ Experiencia trabajando bajo **metodologías ágiles (Scrum)**
+🎓 Estudiante de  Ingeniería en Sistemas Computacionales  en la Universidad del Valle de México  
+🧠 Desarrollador  Backend  enfocado en la construcción de  sistemas seguros, escalables y mantenibles   
+💡 Interés fuerte en  diseño de APIs, autenticación, autorización y arquitecturas limpias   
+🔐 Experiencia implementando  JWT, control de acceso, cifrado y buenas prácticas de seguridad   
+📈 Apasionado por crear  APIs REST eficientes , integrando bases de datos relacionales y NoSQL  
+⚙️ Experiencia trabajando bajo  metodologías ágiles (Scrum) 
 
 ---
 
@@ -50,12 +50,12 @@ Desarrollador Backend | Software Engineer | Enfocado en seguridad, rendimiento y
 
 ### ⚙️ Enfoque Backend
 
-💡 Diseño de **arquitecturas modulares y escalables**  
-🔧 Desarrollo de **middlewares y filtros** para autenticación, validación y manejo de errores  
-🔐 Implementación de **autenticación y autorización segura**  
-📄 Documentación de APIs con **Swagger** y pruebas con **Postman**  
-⚡ Optimización de endpoints y consultas para **baja latencia y alto rendimiento**  
-🐳 Contenerización de aplicaciones usando **Docker y Docker Compose**
+💡 Diseño de arquitecturas modulares y escalables   
+🔧 Desarrollo de  middlewares y filtros  para autenticación, validación y manejo de errores  
+🔐 Implementación de  autenticación y autorización segura   
+📄 Documentación de APIs con  Swagger  y pruebas con  Postman   
+⚡ Optimización de endpoints y consultas para  baja latencia y alto rendimiento   
+🐳 Contenerización de aplicaciones usando  Docker y Docker Compose 
 
 ---
 
@@ -64,11 +64,11 @@ Desarrollador Backend | Software Engineer | Enfocado en seguridad, rendimiento y
 #### 🔹 **Venekia – Payment Authorization API (En desarrollo)**
 - GitHub: https://github.com/aChacin8/Venekia.git  
 
-- Desarrollo de **API backend para mockup de pagos**, enfocada en **autorización y gestión de tokens**, sin manejo directo de dinero.  
-- Implementación de **autenticación y autorización de usuarios** con **JWT** y control de acceso.  
-- Diseño de **billeteras digitales (wallets)** por usuario, con manejo de **múltiples monedas**.  
-- Integración en proceso con **Stripe** para tokenización de métodos de pago.  
-- Aplicación de **arquitectura limpia, buenas prácticas de seguridad y código mantenible**.
+- Desarrollo de  API backend para mockup de pagos , enfocada en  autorización y gestión de tokens , sin manejo directo de dinero.  
+- Implementación de  autenticación y autorización de usuarios  con  JWT  y control de acceso.  
+- Diseño de  billeteras digitales (wallets)  por usuario, con manejo de  múltiples monedas .  
+- Integración en proceso con  Stripe  para tokenización de métodos de pago.  
+- Aplicación de  arquitectura limpia, buenas prácticas de seguridad y código mantenible .
 
 **Tecnologías:**  
 .NET, C#, Entity Framework Core, REST APIs, JWT, Stripe API, SQL, Clean Architecture
@@ -80,12 +80,12 @@ Desarrollador Backend | Software Engineer | Enfocado en seguridad, rendimiento y
 - Backend: https://github.com/aChacin8/LinkCanopy-backend.git  
 - Documentación API: https://linkcanopy-backend.onrender.com/api-docs  
 
-- Desarrollo del **backend principal** con **Node.js, TypeScript, Express y MongoDB**.  
-- Registro y autenticación de usuarios con **datos encriptados**.  
+- Desarrollo del **backend principal  con  Node.js, TypeScript, Express y MongoDB .  
+- Registro y autenticación de usuarios con  datos encriptados .  
 - Endpoints REST para gestión de enlaces personalizados.  
-- Uso de **middlewares personalizados** para validación, seguridad y control de acceso.  
-- Integración de **React** para el frontend cuando el proyecto lo requiere.  
-- Contenerización con **Docker y Docker Compose**.
+- Uso de  middlewares personalizados  para validación, seguridad y control de acceso.  
+- Integración de  React  para el frontend cuando el proyecto lo requiere.  
+- Contenerización con  Docker y Docker Compose .
 
 **Tecnologías:**  
 Node.js, TypeScript, Express, MongoDB, JWT, REST APIs, Middlewares, React, Docker, Swagger
@@ -95,13 +95,13 @@ Node.js, TypeScript, Express, MongoDB, JWT, REST APIs, Middlewares, React, Docke
 #### 🔹 **BudgetMate – Sistema de Gestión Financiera**
 - GitHub: https://github.com/aChacin8/BudgetMate.git  
 
-- Desarrollo de aplicación backend usando **Node.js y TypeScript**.  
-- Implementación de **gestión segura de usuarios**, validaciones y protección de endpoints.  
-- Integración de **Nodemailer** para correos de confirmación y notificaciones.  
-- Diseño de lógica para manejo de **ingresos, gastos y presupuestos**.  
-- Planeación de arquitectura de **microservicios** para aislar cálculos financieros y mejorar escalabilidad.
+- Desarrollo de aplicación backend usando  Node.js y TypeScript .  
+- Implementación de  gestión segura de usuarios , validaciones y protección de endpoints.  
+- Integración de  Nodemailer  para correos de confirmación y notificaciones.  
+- Diseño de lógica para manejo de  ingresos, gastos y presupuestos .  
+- Planeación de arquitectura de  microservicios  para aislar cálculos financieros y mejorar escalabilidad.
 
-**Tecnologías:**  
+ **Tecnologías:**  
 Node.js, TypeScript, Express, JWT, Nodemailer, REST APIs, Microservicios (planeado), SQL / NoSQL
 
 ---
