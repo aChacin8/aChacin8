@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Alejandro Andrés Chacín Nava</h1>
 <p align="center">
-Desarrollador Backend & Full Stack | Enfocado en rendimiento, seguridad y eficiencia de aplicaciones
+Desarrollador Backend | Software Engineer | Enfocado en seguridad, rendimiento y arquitecturas escalables
 </p>
 
 ---
@@ -8,102 +8,116 @@ Desarrollador Backend & Full Stack | Enfocado en rendimiento, seguridad y eficie
 ### 🚀 Sobre mí
 
 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad del Valle de México  
-🧠 Desarrollador **Backend** apasionado por construir **aplicaciones funcionales, seguras y de alto rendimiento**  
-💡 Enfocado en optimizar procesos, reducir tiempos de respuesta y mantener arquitecturas limpias y escalables  
-🔐 Con experiencia en **autenticación JWT, cifrado, middlewares personalizados y documentación con Swagger**  
-📈 Me gusta crear **APIs REST eficientes**, que integren correctamente bases de datos relacionales y no relacionales
+🧠 Desarrollador **Backend** enfocado en la construcción de **sistemas seguros, escalables y mantenibles**  
+💡 Interés fuerte en **diseño de APIs, autenticación, autorización y arquitecturas limpias**  
+🔐 Experiencia implementando **JWT, control de acceso, cifrado y buenas prácticas de seguridad**  
+📈 Apasionado por crear **APIs REST eficientes**, integrando bases de datos relacionales y NoSQL  
+⚙️ Experiencia trabajando bajo **metodologías ágiles (Scrum)**
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 #### 💻 Lenguajes y Frameworks
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 #### 🗄️ Bases de Datos y ORM/ODM
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Knex.js](https://img.shields.io/badge/-Knex.js-1a202c?style=flat-square&logo=knex.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 #### 🧰 Herramientas y DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
-#### 🔐 Seguridad y Rendimiento
+#### 🔐 Seguridad y APIs
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Bcrypt](https://img.shields.io/badge/-Bcrypt-0033A0?style=flat-square)
 ![CORS](https://img.shields.io/badge/-CORS-blue?style=flat-square)
-![Rate Limiter](https://img.shields.io/badge/-Rate%20Limiter-FFB400?style=flat-square)
 
 ---
 
 ### ⚙️ Enfoque Backend
 
-💡 Diseño de **arquitecturas modulares y escalables**, separadas por controladores, servicios y rutas  
-🔧 Creación de **middlewares personalizados** para autenticación, validación, logging y manejo de errores  
-🔐 Implementación de **JWT, bcrypt y encriptación** para la protección de datos sensibles  
-⚙️ Uso de **Helmet, CORS y rate limiters** para reforzar la seguridad y rendimiento  
-📄 Documentación y pruebas exhaustivas con **Swagger y Postman**  
-⚡ Optimización de consultas y endpoints para lograr **eficiencia y baja latencia**
+💡 Diseño de **arquitecturas modulares y escalables**  
+🔧 Desarrollo de **middlewares y filtros** para autenticación, validación y manejo de errores  
+🔐 Implementación de **autenticación y autorización segura**  
+📄 Documentación de APIs con **Swagger** y pruebas con **Postman**  
+⚡ Optimización de endpoints y consultas para **baja latencia y alto rendimiento**  
+🐳 Contenerización de aplicaciones usando **Docker y Docker Compose**
 
 ---
 
 ### 📂 Proyectos Destacados
 
-#### 🌿 [**LinkCanopy**](https://github.com/aChacin8/LinkCanopy.git)  
-_Stack: Node.js + Express + PostgreSQL + Mongoose + Swagger
-- Backend modular y escalable con MongoDB 
-- Middlewares personalizados para seguridad y validación  
-- Consultas optimizadas para rendimiento  
-- Arquitectura RESTful limpia y documentada
-- Api documentada con Swagger UI (https://linkcanopy-backend.onrender.com/api-docs)
+#### 🔹 **Venekia – Payment Authorization API (En desarrollo)**
+- GitHub: https://github.com/aChacin8/Venekia.git  
+
+- Desarrollo de **API backend para mockup de pagos**, enfocada en **autorización y gestión de tokens**, sin manejo directo de dinero.  
+- Implementación de **autenticación y autorización de usuarios** con **JWT** y control de acceso.  
+- Diseño de **billeteras digitales (wallets)** por usuario, con manejo de **múltiples monedas**.  
+- Integración en proceso con **Stripe** para tokenización de métodos de pago.  
+- Aplicación de **arquitectura limpia, buenas prácticas de seguridad y código mantenible**.
+
+**Tecnologías:**  
+.NET, C#, Entity Framework Core, REST APIs, JWT, Stripe API, SQL, Clean Architecture
 
 ---
 
+#### 🔹 **LinkCanopy – Gestión de Links**
+- Aplicación: https://linkcanopy.netlify.app/  
+- Backend: https://github.com/aChacin8/LinkCanopy-backend.git  
+- Documentación API: https://linkcanopy-backend.onrender.com/api-docs  
 
-#### 🔗 [**Taskly - App de Tareas y Recordatorios**](https://github.com/aChacin8/reminder-project.git)  
-_Stack: React + Node.js + MySQL + Knex + JWT + Bcrypt  
-- Backend con autenticación y control de acceso basado en roles  
-- Hashing de contraseñas y validación de tokens con middlewares  
-- Pruebas en Postman  
-- Arquitectura eficiente enfocada en velocidad y mantenibilidad  
+- Desarrollo del **backend principal** con **Node.js, TypeScript, Express y MongoDB**.  
+- Registro y autenticación de usuarios con **datos encriptados**.  
+- Endpoints REST para gestión de enlaces personalizados.  
+- Uso de **middlewares personalizados** para validación, seguridad y control de acceso.  
+- Integración de **React** para el frontend cuando el proyecto lo requiere.  
+- Contenerización con **Docker y Docker Compose**.
 
----
-
-#### 🔐 [**Backend NoSQL con Firebase Storage**](https://github.com/aChacin8/Backend-NoSQL.git)  
-_Stack: Node.js + Express + MongoDB + Mongoose + JWT + Firebase Storage_  
-- API REST protegida con middlewares de autenticación y validación  
-- Manejo seguro de archivos y datos de usuario  
-- Hashing, logging, y control de errores centralizado  
-- Enfoque en rendimiento y optimización de operaciones CRUD  
+**Tecnologías:**  
+Node.js, TypeScript, Express, MongoDB, JWT, REST APIs, Middlewares, React, Docker, Swagger
 
 ---
 
+#### 🔹 **BudgetMate – Sistema de Gestión Financiera**
+- GitHub: https://github.com/aChacin8/BudgetMate.git  
+
+- Desarrollo de aplicación backend usando **Node.js y TypeScript**.  
+- Implementación de **gestión segura de usuarios**, validaciones y protección de endpoints.  
+- Integración de **Nodemailer** para correos de confirmación y notificaciones.  
+- Diseño de lógica para manejo de **ingresos, gastos y presupuestos**.  
+- Planeación de arquitectura de **microservicios** para aislar cálculos financieros y mejorar escalabilidad.
+
+**Tecnologías:**  
+Node.js, TypeScript, Express, JWT, Nodemailer, REST APIs, Microservicios (planeado), SQL / NoSQL
+
+---
 
 ### ⚡ Filosofía de desarrollo
 
-> _"Construyo software funcional, seguro y optimizado. Creo que una buena aplicación no solo debe verse bien, sino también **rendir al máximo**."_  
+> _"Construyo software backend seguro, eficiente y mantenible. La calidad del código y la arquitectura importan tanto como la funcionalidad."_
 
 ---
 
 ### 🤝 Conecta conmigo
 
 - 📫 **Correo:** alejandr28chac1n@gmail.com  
-- 💼 **LinkedIn:** [Alejandro Chacín Nava](https://www.linkedin.com/in/alejandro-chacin-nava-296907363/)  
-- 💻 **GitHub:** [aChacin8](https://github.com/aChacin8)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alejandro-chacin-nava-296907363/  
+- 💻 **GitHub:** https://github.com/aChacin8  
 
 ---
 
-> 💡 *"Confía en tu intuición, disfruta el proceso y construye con propósito."*
+> 💡 *"Aprender constantemente y construir con propósito es parte del camino como desarrollador backend."*
